@@ -4,4 +4,5 @@
 ### xfy
 
 
-[Link](url) and ![](src)
+[baby.jpg](src)
+[yan.jpg](src)
